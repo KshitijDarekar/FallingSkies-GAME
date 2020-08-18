@@ -5,6 +5,8 @@ No , its not  the American television series.<br />
 It is a  offline ,single player Game .<br /> 
 <br />
 
+![](https://github.com/KshitijDarekar/FallingSkies-GAME/blob/master/images/screenrecording.gif)
+
 ### `Tools and Technologies  Used :`
 ■ Python<br />
 ■ Turtle Module<br />
